@@ -1,0 +1,28 @@
+name: TraffiqueJam Mobile Marketing
+favicon: null
+layout_spectrum: 0.060757782543078065
+typography_spectrum: 0.06677865912206471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1501224923413247
+  lightness: 0.0876818960532546
+  saturation: 0.163721754681319
+  rhythmicContrast: 0.5255629268940538
+purpose: []
