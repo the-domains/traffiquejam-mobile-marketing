@@ -1,19 +1,4 @@
-name: TraffiqueJam Mobile Marketing
-favicon: null
-layout_spectrum: 0.29628
 typography_spectrum: 0.59471
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9375
   saturation: 0.125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.29628
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TraffiqueJam Mobile Marketing
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cutting Edge Mobile Marketing
 purpose: []
